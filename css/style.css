@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+.wrapper {
+  min-height: 100%;
+  overflow: hidden;
+  font-family: "Lato", "Arial", sans-serif;
+  margin-top: 190px;
+  margin-left: 345px;
+  max-width: 810px;
+}
+
+.title {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 46px;
+  line-height: 1.5;
+  color: #1e212c;
+  margin-bottom: 28px;
+}
+.img {
+  margin-bottom: 60px;
+}
+
+.textbold {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1e212c;
+  margin-bottom: 24px;
+}
+
+.text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #424551;
+  margin-bottom: 24px;
+}
+.text1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #424551;
+  margin-bottom: 48px;
+}
+
+.textboldnew {
+  background-image: url(../img/braces.svg);
+  background-repeat: no-repeat;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1e212c;
+  padding-left: 58px;
+  margin-bottom: 48px;
+}
+
+.list {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  color: #424551;
+  margin-bottom: 24px;
+}
+
+.span1 {
+  display: inline-block;
+  background-image: url(../img/Calendar.svg);
+  background-repeat: no-repeat;
+  background-size: 16px;
+  padding-left: 24px;
+  margin-bottom: 40px;
+  color: #787a80;
+}
+.span2 {
+  display: inline-block;
+  background-image: url(../img/Union.svg);
+  background-repeat: no-repeat;
+  background-size: 14.67px;
+  margin-left: 48px;
+  padding-left: 22.64px;
+  margin-bottom: 40px;
+  color: #787a80;
+}
+.list-item {
+  background-image: url(../img/Vector.svg);
+  background-repeat: no-repeat;
+  min-height: 14.67px;
+  padding-left: 32px;
+
+  margin-bottom: 4px;
+  background-position: left center;
+}
